@@ -1,0 +1,251 @@
+client_id,client_name,client_type,sector,sector_value,total_portfolio_value,pct_of_portfolio,concentration_flag
+1,Thomas Garcia,Individual,Energy,796649.37,1835843.06,43.39,1
+1,Thomas Garcia,Individual,Consumer Staples,261849.78,1835843.06,14.26,0
+1,Thomas Garcia,Individual,Materials,176404.95,1835843.06,9.61,0
+1,Thomas Garcia,Individual,Financials,144541.51,1835843.06,7.87,0
+1,Thomas Garcia,Individual,Telecommunications,124317.6,1835843.06,6.77,0
+1,Thomas Garcia,Individual,Healthcare,109322.22,1835843.06,5.95,0
+1,Thomas Garcia,Individual,Technology,96322.96,1835843.06,5.25,0
+1,Thomas Garcia,Individual,Consumer Discretionary,86165.1,1835843.06,4.69,0
+1,Thomas Garcia,Individual,Utilities,33623.25,1835843.06,1.83,0
+1,Thomas Garcia,Individual,Industrials,6646.32,1835843.06,0.36,0
+2,Vantage Partners,Corporate,Technology,4320138.96,11200921.24,38.57,0
+2,Vantage Partners,Corporate,Consumer Staples,1412166.55,11200921.24,12.61,0
+2,Vantage Partners,Corporate,Consumer Discretionary,1158803.5,11200921.24,10.35,0
+2,Vantage Partners,Corporate,Energy,841880.34,11200921.24,7.52,0
+2,Vantage Partners,Corporate,Telecommunications,779786.27,11200921.24,6.96,0
+2,Vantage Partners,Corporate,Materials,711874.61,11200921.24,6.36,0
+2,Vantage Partners,Corporate,Financials,619443.96,11200921.24,5.53,0
+2,Vantage Partners,Corporate,Industrials,532733.24,11200921.24,4.76,0
+2,Vantage Partners,Corporate,Utilities,427859.31,11200921.24,3.82,0
+2,Vantage Partners,Corporate,Healthcare,396234.5,11200921.24,3.54,0
+3,Alice Costa,Individual,Consumer Discretionary,180543.73,871773.37,20.71,0
+3,Alice Costa,Individual,Energy,165689.97,871773.37,19.01,0
+3,Alice Costa,Individual,Utilities,129011.15,871773.37,14.8,0
+3,Alice Costa,Individual,Consumer Staples,87899.71,871773.37,10.08,0
+3,Alice Costa,Individual,Healthcare,67559.89,871773.37,7.75,0
+3,Alice Costa,Individual,Industrials,60726.5,871773.37,6.97,0
+3,Alice Costa,Individual,Materials,59202.51,871773.37,6.79,0
+3,Alice Costa,Individual,Technology,50173.06,871773.37,5.76,0
+3,Alice Costa,Individual,Financials,49005.62,871773.37,5.62,0
+3,Alice Costa,Individual,Telecommunications,21961.23,871773.37,2.52,0
+4,Harborview Partners,Corporate,Financials,6605595.03,19269414.5,34.28,0
+4,Harborview Partners,Corporate,Materials,1938091.83,19269414.5,10.06,0
+4,Harborview Partners,Corporate,Energy,1866346.38,19269414.5,9.69,0
+4,Harborview Partners,Corporate,Consumer Discretionary,1661010.76,19269414.5,8.62,0
+4,Harborview Partners,Corporate,Industrials,1611408.98,19269414.5,8.36,0
+4,Harborview Partners,Corporate,Consumer Staples,1371913.44,19269414.5,7.12,0
+4,Harborview Partners,Corporate,Technology,1265570.39,19269414.5,6.57,0
+4,Harborview Partners,Corporate,Telecommunications,1183163.4,19269414.5,6.14,0
+4,Harborview Partners,Corporate,Utilities,900191.76,19269414.5,4.67,0
+4,Harborview Partners,Corporate,Healthcare,866122.53,19269414.5,4.49,0
+5,Northbridge Fund,Corporate,Consumer Staples,9239710.17,15827940.62,58.38,1
+5,Northbridge Fund,Corporate,Industrials,1129529.21,15827940.62,7.14,0
+5,Northbridge Fund,Corporate,Financials,948395.15,15827940.62,5.99,0
+5,Northbridge Fund,Corporate,Telecommunications,933245.77,15827940.62,5.9,0
+5,Northbridge Fund,Corporate,Energy,872302.44,15827940.62,5.51,0
+5,Northbridge Fund,Corporate,Consumer Discretionary,703498.06,15827940.62,4.44,0
+5,Northbridge Fund,Corporate,Utilities,588491.49,15827940.62,3.72,0
+5,Northbridge Fund,Corporate,Healthcare,534887.16,15827940.62,3.38,0
+5,Northbridge Fund,Corporate,Materials,523114.08,15827940.62,3.31,0
+5,Northbridge Fund,Corporate,Technology,354767.1,15827940.62,2.24,0
+6,Diego Larsen,Individual,Consumer Discretionary,304451.8,1291365.47,23.58,0
+6,Diego Larsen,Individual,Consumer Staples,150609.07,1291365.47,11.66,0
+6,Diego Larsen,Individual,Technology,149842.98,1291365.47,11.6,0
+6,Diego Larsen,Individual,Industrials,148683.12,1291365.47,11.51,0
+6,Diego Larsen,Individual,Materials,125895.48,1291365.47,9.75,0
+6,Diego Larsen,Individual,Energy,114864.74,1291365.47,8.89,0
+6,Diego Larsen,Individual,Healthcare,84055.72,1291365.47,6.51,0
+6,Diego Larsen,Individual,Telecommunications,81545.91,1291365.47,6.31,0
+6,Diego Larsen,Individual,Financials,76909.52,1291365.47,5.96,0
+6,Diego Larsen,Individual,Utilities,54507.14,1291365.47,4.22,0
+7,Meridian Asset Management,Corporate,Consumer Staples,2718843.43,15002843.02,18.12,0
+7,Meridian Asset Management,Corporate,Industrials,2468892.45,15002843.02,16.46,0
+7,Meridian Asset Management,Corporate,Energy,2106200.81,15002843.02,14.04,0
+7,Meridian Asset Management,Corporate,Consumer Discretionary,1769683.92,15002843.02,11.8,0
+7,Meridian Asset Management,Corporate,Materials,1712308.46,15002843.02,11.41,0
+7,Meridian Asset Management,Corporate,Utilities,1011612.4,15002843.02,6.74,0
+7,Meridian Asset Management,Corporate,Technology,921777.22,15002843.02,6.14,0
+7,Meridian Asset Management,Corporate,Healthcare,853364.65,15002843.02,5.69,0
+7,Meridian Asset Management,Corporate,Telecommunications,812886.87,15002843.02,5.42,0
+7,Meridian Asset Management,Corporate,Financials,627272.82,15002843.02,4.18,0
+8,Silverline Holdings,Corporate,Consumer Discretionary,3246920.98,23571764.79,13.77,0
+8,Silverline Holdings,Corporate,Materials,3094827.54,23571764.79,13.13,0
+8,Silverline Holdings,Corporate,Consumer Staples,2895192.65,23571764.79,12.28,0
+8,Silverline Holdings,Corporate,Energy,2554890.66,23571764.79,10.84,0
+8,Silverline Holdings,Corporate,Industrials,2523645.84,23571764.79,10.71,0
+8,Silverline Holdings,Corporate,Technology,2373503.78,23571764.79,10.07,0
+8,Silverline Holdings,Corporate,Financials,2100183.88,23571764.79,8.91,0
+8,Silverline Holdings,Corporate,Utilities,1951909.95,23571764.79,8.28,0
+8,Silverline Holdings,Corporate,Telecommunications,1772959.86,23571764.79,7.52,0
+8,Silverline Holdings,Corporate,Healthcare,1057729.65,23571764.79,4.49,0
+9,Ridgeline Holdings,Institutional,Consumer Staples,28356322.05,170510607.28,16.63,0
+9,Ridgeline Holdings,Institutional,Materials,25229172.75,170510607.28,14.8,0
+9,Ridgeline Holdings,Institutional,Consumer Discretionary,24846937.76,170510607.28,14.57,0
+9,Ridgeline Holdings,Institutional,Industrials,17158177.26,170510607.28,10.06,0
+9,Ridgeline Holdings,Institutional,Technology,16807898.71,170510607.28,9.86,0
+9,Ridgeline Holdings,Institutional,Energy,15240999.15,170510607.28,8.94,0
+9,Ridgeline Holdings,Institutional,Financials,13602636.23,170510607.28,7.98,0
+9,Ridgeline Holdings,Institutional,Telecommunications,12724537.25,170510607.28,7.46,0
+9,Ridgeline Holdings,Institutional,Utilities,9340551.79,170510607.28,5.48,0
+9,Ridgeline Holdings,Institutional,Healthcare,7203374.32,170510607.28,4.22,0
+10,Harborview Holdings,Corporate,Consumer Staples,3552252.97,23660120.66,15.01,0
+10,Harborview Holdings,Corporate,Industrials,3525294.0,23660120.66,14.9,0
+10,Harborview Holdings,Corporate,Materials,3054801.83,23660120.66,12.91,0
+10,Harborview Holdings,Corporate,Utilities,2933847.01,23660120.66,12.4,0
+10,Harborview Holdings,Corporate,Telecommunications,2157259.42,23660120.66,9.12,0
+10,Harborview Holdings,Corporate,Financials,2091590.47,23660120.66,8.84,0
+10,Harborview Holdings,Corporate,Energy,1876434.51,23660120.66,7.93,0
+10,Harborview Holdings,Corporate,Consumer Discretionary,1748058.9,23660120.66,7.39,0
+10,Harborview Holdings,Corporate,Technology,1656423.88,23660120.66,7.0,0
+10,Harborview Holdings,Corporate,Healthcare,1064157.67,23660120.66,4.5,0
+11,Harborview Group,Corporate,Consumer Staples,2768759.82,14897142.35,18.59,0
+11,Harborview Group,Corporate,Materials,2545656.49,14897142.35,17.09,0
+11,Harborview Group,Corporate,Industrials,1981444.72,14897142.35,13.3,0
+11,Harborview Group,Corporate,Energy,1622385.55,14897142.35,10.89,0
+11,Harborview Group,Corporate,Consumer Discretionary,1477954.04,14897142.35,9.92,0
+11,Harborview Group,Corporate,Utilities,1164559.7,14897142.35,7.82,0
+11,Harborview Group,Corporate,Financials,1077345.61,14897142.35,7.23,0
+11,Harborview Group,Corporate,Technology,1023796.46,14897142.35,6.87,0
+11,Harborview Group,Corporate,Telecommunications,774277.15,14897142.35,5.2,0
+11,Harborview Group,Corporate,Healthcare,460962.8,14897142.35,3.09,0
+12,Camille Costa,Individual,Consumer Staples,315913.63,1486772.64,21.25,0
+12,Camille Costa,Individual,Energy,226482.82,1486772.64,15.23,0
+12,Camille Costa,Individual,Utilities,186203.39,1486772.64,12.52,0
+12,Camille Costa,Individual,Industrials,144874.22,1486772.64,9.74,0
+12,Camille Costa,Individual,Technology,143452.64,1486772.64,9.65,0
+12,Camille Costa,Individual,Consumer Discretionary,131624.95,1486772.64,8.85,0
+12,Camille Costa,Individual,Telecommunications,113087.38,1486772.64,7.61,0
+12,Camille Costa,Individual,Materials,95923.12,1486772.64,6.45,0
+12,Camille Costa,Individual,Healthcare,73759.25,1486772.64,4.96,0
+12,Camille Costa,Individual,Financials,55451.24,1486772.64,3.73,0
+13,Vantage Capital,Corporate,Utilities,7306471.41,19649302.89,37.18,0
+13,Vantage Capital,Corporate,Industrials,2404318.37,19649302.89,12.24,0
+13,Vantage Capital,Corporate,Materials,2303424.6,19649302.89,11.72,0
+13,Vantage Capital,Corporate,Consumer Staples,1715104.33,19649302.89,8.73,0
+13,Vantage Capital,Corporate,Energy,1525374.86,19649302.89,7.76,0
+13,Vantage Capital,Corporate,Financials,1297041.44,19649302.89,6.6,0
+13,Vantage Capital,Corporate,Consumer Discretionary,1014573.78,19649302.89,5.16,0
+13,Vantage Capital,Corporate,Telecommunications,873713.31,19649302.89,4.45,0
+13,Vantage Capital,Corporate,Technology,744256.9,19649302.89,3.79,0
+13,Vantage Capital,Corporate,Healthcare,465023.88,19649302.89,2.37,0
+14,Zoe Costa,Individual,Energy,252397.9,1680443.71,15.02,0
+14,Zoe Costa,Individual,Industrials,237089.39,1680443.71,14.11,0
+14,Zoe Costa,Individual,Consumer Staples,236929.72,1680443.71,14.1,0
+14,Zoe Costa,Individual,Materials,232845.4,1680443.71,13.86,0
+14,Zoe Costa,Individual,Telecommunications,186911.41,1680443.71,11.12,0
+14,Zoe Costa,Individual,Consumer Discretionary,167320.68,1680443.71,9.96,0
+14,Zoe Costa,Individual,Financials,117820.62,1680443.71,7.01,0
+14,Zoe Costa,Individual,Utilities,107934.53,1680443.71,6.42,0
+14,Zoe Costa,Individual,Technology,102767.69,1680443.71,6.12,0
+14,Zoe Costa,Individual,Healthcare,38426.36,1680443.71,2.29,0
+15,Antoine Silva,Individual,Industrials,747371.99,1631356.54,45.81,1
+15,Antoine Silva,Individual,Consumer Discretionary,176702.14,1631356.54,10.83,0
+15,Antoine Silva,Individual,Materials,147595.53,1631356.54,9.05,0
+15,Antoine Silva,Individual,Technology,131350.24,1631356.54,8.05,0
+15,Antoine Silva,Individual,Energy,101267.62,1631356.54,6.21,0
+15,Antoine Silva,Individual,Telecommunications,83175.6,1631356.54,5.1,0
+15,Antoine Silva,Individual,Consumer Staples,80145.85,1631356.54,4.91,0
+15,Antoine Silva,Individual,Utilities,74036.81,1631356.54,4.54,0
+15,Antoine Silva,Individual,Financials,56587.75,1631356.54,3.47,0
+15,Antoine Silva,Individual,Healthcare,33123.0,1631356.54,2.03,0
+16,Alice Silva,Individual,Telecommunications,526895.9,1832330.95,28.76,0
+16,Alice Silva,Individual,Industrials,268798.06,1832330.95,14.67,0
+16,Alice Silva,Individual,Consumer Discretionary,266437.12,1832330.95,14.54,0
+16,Alice Silva,Individual,Energy,174278.5,1832330.95,9.51,0
+16,Alice Silva,Individual,Consumer Staples,162928.71,1832330.95,8.89,0
+16,Alice Silva,Individual,Utilities,122567.42,1832330.95,6.69,0
+16,Alice Silva,Individual,Materials,120675.01,1832330.95,6.59,0
+16,Alice Silva,Individual,Financials,84845.46,1832330.95,4.63,0
+16,Alice Silva,Individual,Technology,68489.34,1832330.95,3.74,0
+16,Alice Silva,Individual,Healthcare,36415.42,1832330.95,1.99,0
+17,Zoe Muller,Individual,Financials,476968.66,1550500.79,30.76,0
+17,Zoe Muller,Individual,Consumer Staples,226843.47,1550500.79,14.63,0
+17,Zoe Muller,Individual,Industrials,183267.41,1550500.79,11.82,0
+17,Zoe Muller,Individual,Consumer Discretionary,138588.73,1550500.79,8.94,0
+17,Zoe Muller,Individual,Materials,127197.47,1550500.79,8.2,0
+17,Zoe Muller,Individual,Telecommunications,109973.03,1550500.79,7.09,0
+17,Zoe Muller,Individual,Energy,99700.33,1550500.79,6.43,0
+17,Zoe Muller,Individual,Utilities,89117.45,1550500.79,5.75,0
+17,Zoe Muller,Individual,Healthcare,50598.6,1550500.79,3.26,0
+17,Zoe Muller,Individual,Technology,48245.63,1550500.79,3.11,0
+18,Brightside Holdings,Corporate,Consumer Discretionary,4139740.12,26851839.89,15.42,0
+18,Brightside Holdings,Corporate,Consumer Staples,4005182.31,26851839.89,14.92,0
+18,Brightside Holdings,Corporate,Materials,3453510.1,26851839.89,12.86,0
+18,Brightside Holdings,Corporate,Industrials,3112515.33,26851839.89,11.59,0
+18,Brightside Holdings,Corporate,Energy,2812598.44,26851839.89,10.47,0
+18,Brightside Holdings,Corporate,Utilities,2319879.53,26851839.89,8.64,0
+18,Brightside Holdings,Corporate,Financials,2191079.59,26851839.89,8.16,0
+18,Brightside Holdings,Corporate,Telecommunications,1852926.85,26851839.89,6.9,0
+18,Brightside Holdings,Corporate,Technology,1616727.36,26851839.89,6.02,0
+18,Brightside Holdings,Corporate,Healthcare,1347680.25,26851839.89,5.02,0
+19,Giulia Garcia,Individual,Materials,802016.37,1824405.44,43.96,1
+19,Giulia Garcia,Individual,Consumer Discretionary,231835.21,1824405.44,12.71,0
+19,Giulia Garcia,Individual,Industrials,177998.14,1824405.44,9.76,0
+19,Giulia Garcia,Individual,Energy,124672.08,1824405.44,6.83,0
+19,Giulia Garcia,Individual,Consumer Staples,100018.01,1824405.44,5.48,0
+19,Giulia Garcia,Individual,Utilities,92408.51,1824405.44,5.07,0
+19,Giulia Garcia,Individual,Healthcare,80093.55,1824405.44,4.39,0
+19,Giulia Garcia,Individual,Telecommunications,75351.78,1824405.44,4.13,0
+19,Giulia Garcia,Individual,Financials,73999.86,1824405.44,4.06,0
+19,Giulia Garcia,Individual,Technology,66011.94,1824405.44,3.62,0
+20,Yasmine Novak,Individual,Consumer Staples,175543.87,1252138.55,14.02,0
+20,Yasmine Novak,Individual,Energy,155906.19,1252138.55,12.45,0
+20,Yasmine Novak,Individual,Utilities,145742.32,1252138.55,11.64,0
+20,Yasmine Novak,Individual,Financials,129910.52,1252138.55,10.38,0
+20,Yasmine Novak,Individual,Materials,129615.26,1252138.55,10.35,0
+20,Yasmine Novak,Individual,Technology,120344.31,1252138.55,9.61,0
+20,Yasmine Novak,Individual,Telecommunications,105030.69,1252138.55,8.39,0
+20,Yasmine Novak,Individual,Healthcare,104334.05,1252138.55,8.33,0
+20,Yasmine Novak,Individual,Industrials,101430.66,1252138.55,8.1,0
+20,Yasmine Novak,Individual,Consumer Discretionary,84280.68,1252138.55,6.73,0
+21,Antoine Martin,Individual,Materials,160231.73,728559.1,21.99,0
+21,Antoine Martin,Individual,Consumer Staples,124408.34,728559.1,17.08,0
+21,Antoine Martin,Individual,Energy,78325.14,728559.1,10.75,0
+21,Antoine Martin,Individual,Consumer Discretionary,72788.05,728559.1,9.99,0
+21,Antoine Martin,Individual,Utilities,64210.39,728559.1,8.81,0
+21,Antoine Martin,Individual,Industrials,63818.99,728559.1,8.76,0
+21,Antoine Martin,Individual,Financials,56713.02,728559.1,7.78,0
+21,Antoine Martin,Individual,Telecommunications,51028.9,728559.1,7.0,0
+21,Antoine Martin,Individual,Healthcare,29494.41,728559.1,4.05,0
+21,Antoine Martin,Individual,Technology,27540.13,728559.1,3.78,0
+22,Ridgeline Capital,Corporate,Energy,2265166.74,13552550.25,16.71,0
+22,Ridgeline Capital,Corporate,Financials,1887409.12,13552550.25,13.93,0
+22,Ridgeline Capital,Corporate,Consumer Staples,1802089.61,13552550.25,13.3,0
+22,Ridgeline Capital,Corporate,Consumer Discretionary,1567541.8,13552550.25,11.57,0
+22,Ridgeline Capital,Corporate,Materials,1354720.73,13552550.25,10.0,0
+22,Ridgeline Capital,Corporate,Technology,1067024.88,13552550.25,7.87,0
+22,Ridgeline Capital,Corporate,Industrials,954498.47,13552550.25,7.04,0
+22,Ridgeline Capital,Corporate,Utilities,940206.9,13552550.25,6.94,0
+22,Ridgeline Capital,Corporate,Healthcare,931904.03,13552550.25,6.88,0
+22,Ridgeline Capital,Corporate,Telecommunications,781987.95,13552550.25,5.77,0
+23,Sarah Larsen,Individual,Materials,374037.65,2137208.93,17.5,0
+23,Sarah Larsen,Individual,Industrials,315087.17,2137208.93,14.74,0
+23,Sarah Larsen,Individual,Consumer Staples,273791.77,2137208.93,12.81,0
+23,Sarah Larsen,Individual,Energy,263043.53,2137208.93,12.31,0
+23,Sarah Larsen,Individual,Consumer Discretionary,254931.54,2137208.93,11.93,0
+23,Sarah Larsen,Individual,Utilities,168782.07,2137208.93,7.9,0
+23,Sarah Larsen,Individual,Healthcare,167703.64,2137208.93,7.85,0
+23,Sarah Larsen,Individual,Telecommunications,133269.46,2137208.93,6.24,0
+23,Sarah Larsen,Individual,Financials,99258.28,2137208.93,4.64,0
+23,Sarah Larsen,Individual,Technology,87303.83,2137208.93,4.08,0
+24,Anchor Fund,Corporate,Materials,4135546.23,24030941.07,17.21,0
+24,Anchor Fund,Corporate,Consumer Staples,4021627.09,24030941.07,16.74,0
+24,Anchor Fund,Corporate,Consumer Discretionary,2544685.97,24030941.07,10.59,0
+24,Anchor Fund,Corporate,Utilities,2417971.42,24030941.07,10.06,0
+24,Anchor Fund,Corporate,Financials,2378057.32,24030941.07,9.9,0
+24,Anchor Fund,Corporate,Energy,2238499.43,24030941.07,9.32,0
+24,Anchor Fund,Corporate,Industrials,2233657.16,24030941.07,9.29,0
+24,Anchor Fund,Corporate,Technology,1624585.13,24030941.07,6.76,0
+24,Anchor Fund,Corporate,Telecommunications,1543131.1,24030941.07,6.42,0
+24,Anchor Fund,Corporate,Healthcare,893180.22,24030941.07,3.72,0
+25,Hugo Kowalski,Individual,Consumer Discretionary,286481.9,1628610.3,17.59,0
+25,Hugo Kowalski,Individual,Consumer Staples,267772.38,1628610.3,16.44,0
+25,Hugo Kowalski,Individual,Financials,185213.81,1628610.3,11.37,0
+25,Hugo Kowalski,Individual,Energy,174564.52,1628610.3,10.72,0
+25,Hugo Kowalski,Individual,Technology,168800.95,1628610.3,10.36,0
+25,Hugo Kowalski,Individual,Industrials,147329.7,1628610.3,9.05,0
+25,Hugo Kowalski,Individual,Materials,132432.66,1628610.3,8.13,0
+25,Hugo Kowalski,Individual,Telecommunications,114667.0,1628610.3,7.04,0
+25,Hugo Kowalski,Individual,Healthcare,81938.05,1628610.3,5.03,0
+25,Hugo Kowalski,Individual,Utilities,69409.32,1628610.3,4.26,0

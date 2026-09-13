@@ -1,0 +1,26 @@
+client_id,client_name,client_type,total_invested,total_pnl,return_pct,rank,dense_rank
+1,Thomas Garcia,Individual,2894416.74,449973.57,15.546,1,1
+5,Northbridge Fund,Corporate,28899599.44,4199744.31,14.532,2,2
+21,Antoine Martin,Individual,936162.36,124396.95,13.288,3,3
+17,Zoe Muller,Individual,2336401.36,300574.18,12.865,4,4
+15,Antoine Silva,Individual,2631232.03,330977.95,12.579,5,5
+12,Camille Costa,Individual,2578948.22,321409.84,12.463,6,6
+4,Harborview Partners,Corporate,33535769.19,3891657.91,11.604,7,7
+20,Yasmine Novak,Individual,2075630.6,238002.57,11.467,8,8
+3,Alice Costa,Individual,1353333.99,137822.29,10.184,9,9
+7,Meridian Asset Management,Corporate,26346045.03,2608373.71,9.9,10,10
+9,Ridgeline Holdings,Institutional,299225753.17,28641996.29,9.572,11,11
+14,Zoe Costa,Individual,2469621.27,226512.76,9.172,12,12
+6,Diego Larsen,Individual,1884247.45,164951.99,8.754,13,13
+13,Vantage Capital,Corporate,32877030.84,2810528.82,8.549,14,14
+8,Silverline Holdings,Corporate,41299778.87,3404919.61,8.244,15,15
+25,Hugo Kowalski,Individual,2173456.12,173240.76,7.971,16,16
+11,Harborview Group,Corporate,24855356.91,1887850.21,7.595,17,17
+10,Harborview Holdings,Corporate,46961661.72,3503169.23,7.46,18,18
+24,Anchor Fund,Corporate,41747033.79,3064523.51,7.341,19,19
+18,Brightside Holdings,Corporate,49781742.98,3597176.88,7.226,20,20
+22,Ridgeline Capital,Corporate,24036894.3,1550516.68,6.451,21,21
+23,Sarah Larsen,Individual,4485120.81,217648.2,4.853,22,22
+2,Vantage Partners,Corporate,17647398.09,731656.97,4.146,23,23
+19,Giulia Garcia,Individual,3782883.18,154161.18,4.075,24,24
+16,Alice Silva,Individual,2875383.73,-1877.39,-0.065,25,25

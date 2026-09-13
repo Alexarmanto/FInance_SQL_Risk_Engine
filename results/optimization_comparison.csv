@@ -1,0 +1,4 @@
+query,median_before_s,median_after_s,gain_pct
+"Query 1 - running-total position (full trades scan, window function)",0.1396,0.094,32.7
+"Query 4 - z-score anomaly detection (full trades scan, window function)",0.078,0.046,41.1
+Query 3 - historical VaR (trades + market_data join across a 250-day calendar),1.3631,1.3228,3.0
